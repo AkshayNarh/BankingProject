@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T19:34:01 IST" name="Suite" finished-at="2022-06-08T19:34:49 IST" duration-ms="47542">
+    <groups>
+    </groups>
+    <test started-at="2022-06-08T19:34:01 IST" name="chromeTest" finished-at="2022-06-08T19:34:49 IST" duration-ms="47542">
+      <class name="TestClasses.VerifyUserCanAddFundToAccount">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:01 IST" name="beforeClass" finished-at="2022-06-08T19:34:12 IST" duration-ms="11257" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:12 IST" name="beforeMethod" finished-at="2022-06-08T19:34:12 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyUserCanLogin()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:12 IST" name="VerifyUserCanLogin" finished-at="2022-06-08T19:34:25 IST" duration-ms="12618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:25 IST" name="afterMethod" finished-at="2022-06-08T19:34:25 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyUserCanLogin status=SUCCESS method=VerifyUserCanAddFundToAccount.VerifyUserCanLogin()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:25 IST" name="beforeMethod" finished-at="2022-06-08T19:34:25 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyUserCanOpenFundPage()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:25 IST" name="VerifyUserCanOpenFundPage" finished-at="2022-06-08T19:34:27 IST" duration-ms="2418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanOpenFundPage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:27 IST" name="afterMethod" finished-at="2022-06-08T19:34:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyUserCanOpenFundPage status=SUCCESS method=VerifyUserCanAddFundToAccount.VerifyUserCanOpenFundPage()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:27 IST" name="beforeMethod" finished-at="2022-06-08T19:34:27 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyUserCanParticularAmount()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:27 IST" name="verifyUserCanParticularAmount" finished-at="2022-06-08T19:34:29 IST" duration-ms="1604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanParticularAmount -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:29 IST" name="afterMethod" finished-at="2022-06-08T19:34:29 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserCanParticularAmount status=SUCCESS method=VerifyUserCanAddFundToAccount.verifyUserCanParticularAmount()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestClasses.VerifyUserCanAddFundToAccount@2d3379b4]" started-at="2022-06-08T19:34:29 IST" name="afterClass" finished-at="2022-06-08T19:34:31 IST" duration-ms="1749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestClasses.VerifyUserCanAddFundToAccount -->
+      <class name="TestClasses.VerifyUserCanWithdrawAmount">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:TestClasses.VerifyUserCanWithdrawAmount@3754a4bf]" started-at="2022-06-08T19:34:31 IST" name="beforeClass" finished-at="2022-06-08T19:34:37 IST" duration-ms="5806" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestClasses.VerifyUserCanWithdrawAmount@3754a4bf]" started-at="2022-06-08T19:34:37 IST" name="beforeMethod" finished-at="2022-06-08T19:34:37 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyUserCanLogin()[pri:0, instance:TestClasses.VerifyUserCanWithdrawAmount@3754a4bf]" started-at="2022-06-08T19:34:37 IST" name="VerifyUserCanLogin" finished-at="2022-06-08T19:34:48 IST" duration-ms="11753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:TestClasses.VerifyUserCanWithdrawAmount@3754a4bf]" started-at="2022-06-08T19:34:48 IST" name="afterMethod" finished-at="2022-06-08T19:34:48 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyUserCanLogin status=SUCCESS method=VerifyUserCanWithdrawAmount.VerifyUserCanLogin()[pri:0, instance:TestClasses.VerifyUserCanWithdrawAmount@3754a4bf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestClasses.VerifyUserCanWithdrawAmount@3754a4bf]" started-at="2022-06-08T19:34:48 IST" name="afterClass" finished-at="2022-06-08T19:34:49 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestClasses.VerifyUserCanWithdrawAmount -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
