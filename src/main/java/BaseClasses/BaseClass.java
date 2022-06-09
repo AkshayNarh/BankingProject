@@ -18,6 +18,7 @@ public class BaseClass {
 	
 	static ExtentTest test;
 	
+	static int k = 10;
 	
 	static WebDriver driver;
 	
