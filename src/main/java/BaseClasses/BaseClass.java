@@ -23,7 +23,6 @@ public class BaseClass {
 	
 	public static WebDriver getDriver(String browser)
 	{
-		
 			if(browser.equals("chrome"))
 			{
 				WebDriverManager.chromedriver().setup();
