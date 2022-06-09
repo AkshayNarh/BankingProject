@@ -16,7 +16,7 @@ public class BaseClass {
 	
 	static ExtentReports report;
 	
-	static int test;
+	static ExtentReport test;
 	
 	
 	static WebDriver driver;
